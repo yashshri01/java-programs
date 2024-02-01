@@ -1,7 +1,0 @@
-package com.polyinhet;
-
-public class Second{
-	public static void m1() {
-		System.out.println("Second class");
-	}
-}

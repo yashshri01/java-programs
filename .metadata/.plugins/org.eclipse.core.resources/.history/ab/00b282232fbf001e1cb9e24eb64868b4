@@ -1,7 +1,0 @@
-package Inherit;
-
-public class Abhishek extends Prashant {
-	public void SetMango() {
-		System.out.println("Mango");
-	}
-}

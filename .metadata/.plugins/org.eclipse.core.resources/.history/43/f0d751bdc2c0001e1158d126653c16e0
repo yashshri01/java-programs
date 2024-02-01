@@ -1,9 +1,0 @@
-package com.car;
-
-public abstract class BMW {
-public abstract void getBMWdealers();
-	
-	public void getBMW() {
-		System.out.println("You selected BMW");
-	}
-}

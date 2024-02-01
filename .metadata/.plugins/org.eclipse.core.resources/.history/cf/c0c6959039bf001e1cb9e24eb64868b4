@@ -1,8 +1,0 @@
-package com.car;
-
-public class Car {
-	static {
-		System.out.println("Welcome to CAR SHOP");
-	}
-	
-}
