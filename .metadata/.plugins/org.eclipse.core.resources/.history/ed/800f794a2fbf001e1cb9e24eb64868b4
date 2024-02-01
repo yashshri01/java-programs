@@ -1,0 +1,7 @@
+package Inherit;
+
+public class Yash extends Abhishek {
+	public void SetCherry() {
+		System.out.println("Cherry");
+	}
+}

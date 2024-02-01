@@ -1,0 +1,12 @@
+package com.a;
+
+public class Apple {
+	Apple(){
+		System.out.println("insoide constructor");
+	}
+	public static void main(String [] args) {
+		Apple obj = new Apple();
+	}
+}
+//constructor
+

@@ -1,0 +1,10 @@
+package com.car;
+
+public class Car {
+	static {
+		System.out.println("Welcome to CAR SHOP");
+	}
+	public static void main(Sting[]args) {
+		System.out.println("select 1 for Tata \nselect 2 for BMW \nselect 3 for Mahindra")
+	}
+}

@@ -1,0 +1,18 @@
+package com.data;
+
+public class Variable {
+	int a=10;
+	
+	public static void m1() {
+		System.out.println(a);
+	}
+	
+	public static void main(String [] args) {
+		Variable obj = new Variable();
+		obj.m1();
+		//non static variable accessed by non static method
+		// static variable accessed by non static method
+		//non static variable accessed by static method
+		
+	}
+}

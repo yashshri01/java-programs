@@ -1,0 +1,9 @@
+package com.car;
+
+public abstract class MarutiSuzuki {
+	public abstract void getMSdealers();
+	
+	public void getMS() {
+		System.out.println("You selected MarutiSuzuki");
+	}
+}

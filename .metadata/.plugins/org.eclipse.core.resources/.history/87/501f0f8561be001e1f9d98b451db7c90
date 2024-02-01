@@ -1,0 +1,16 @@
+package com.data;
+
+public class Conditional {
+	public static void main(String [] args) {
+	int a =10;
+	if (a==20) {
+		System.out.println("true print if");
+	}
+	else if(a<20) {
+		System.out.println("If not true then print (else-if) ");
+	}
+	else {
+		System.out.println("if and else-if not true print else");
+	}
+	}
+}

@@ -1,0 +1,11 @@
+package com.data;
+
+public class Calculation {
+	public static void main(String[] args) {
+			System.out.println("enter num1");
+			Scanner sc = new Scanner(System.in);
+			int num1 = sc.nextInt(); 
+		    System.out.println("Username is: " + num1);
+		}
+	}
+}

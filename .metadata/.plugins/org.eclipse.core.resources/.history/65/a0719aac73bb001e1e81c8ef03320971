@@ -1,0 +1,16 @@
+package com.a;
+
+public class B {
+	//public void m2() {
+		//A ab = new A();
+	//}
+	public static void main(String[] args) {
+		//B obj = new B();
+		//obj.m2();
+		System.out.println("inside main method");
+		A obj = new A();
+		
+		
+	}
+}
+//static block

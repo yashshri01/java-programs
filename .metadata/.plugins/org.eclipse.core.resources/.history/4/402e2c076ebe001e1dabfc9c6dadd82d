@@ -1,0 +1,12 @@
+package com.data;
+
+public class Dowhile {
+	public static void main(String[]args) {
+		int i =20;
+		do {
+			System.out.println(i);
+		}
+		while(i<20);
+	}
+}
+// firstly run then check condition

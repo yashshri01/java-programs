@@ -1,0 +1,18 @@
+package com.intro;
+
+public class Child extends Collage {
+
+	@Override
+	public void getDep() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void getTeachername() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
+

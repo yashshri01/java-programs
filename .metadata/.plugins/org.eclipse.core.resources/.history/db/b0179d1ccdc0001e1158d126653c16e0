@@ -1,0 +1,12 @@
+package com.car;
+impo
+public class Operation {
+	static {
+		System.out.println("!Welcome to car company!");
+	}
+	public static void main(String[] args) {
+		System.out.println("Choose Car Company:-");
+		System.out.println("press 1 for MarutiSuzuki \npress 2 for Tata \npress 3 for BMW");
+		
+	}
+}

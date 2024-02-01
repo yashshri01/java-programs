@@ -1,0 +1,10 @@
+package com.b;
+
+import com.a.First;
+
+public class Fourth extends First {
+	public static void main(String[]args) {
+		Fourth ob = new Fourth();
+		System.out.println("protected:"+ob.pt);
+	}
+}

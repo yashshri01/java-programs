@@ -1,0 +1,12 @@
+package Inherit;
+
+import Inherit.Father.Son;
+
+public class IncomeTax {
+	public static void main(String[] args) {
+		Son sn = new Son();
+		sn.getGold();
+		sn.getLand();
+		sn.getCar();
+		}
+}

@@ -1,0 +1,10 @@
+package com.deatil;
+import java.util.*;
+public class Car {
+	public static void main(String[] args) {
+		System.out.println("Choose a car company:");
+		System.out.println("1.Tata \n2.Toyata \n3.Mahindra");
+		Scanner sc= new Scanner(System.in);
+		String car = sc.next();
+		}
+}
